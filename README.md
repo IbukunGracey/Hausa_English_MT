@@ -1,4 +1,4 @@
-# Hausa_English_MT
+# A Transformer Based Translation Model for Hausa Language using Pretrained Models 
 
 This repository contains a machine translation model that translates english to hausa languages. This was trained using pre-trained models MBART and M2M100 - "facebook/m2m100_418M" like architectures from [Masakhane](https://github.com/masakhane-io/lafand-mt) git repo and fine-tuned on [MAFAND_MT](https://github.com/masakhane-io/lafand-mt/tree/main/data/json_files) datasets. 
 
